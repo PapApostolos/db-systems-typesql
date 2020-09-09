@@ -22,7 +22,9 @@
 
 
 
+## Current Trend  in Text-to-Sql Query
 
+Despite the significant approvement especially on WHERE Clauses, if we look at the leaderboard of [WikiSQL](https://github.com/salesforce/WikiSQL) we will see that TypeSql is outperformed by other models. Actually it is on the 17th rank among the 26 models which are presented.
 
 
 <table style="margin-right: auto; width:85%;font-size:15px;border:1px;">
