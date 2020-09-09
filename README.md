@@ -13,18 +13,9 @@ Welcome to the db-systems-typesql- wiki!
 </p>
 
 `jjuhui`
-
-<div class="row">
-  <div class="column">
-    <img src="SQLNet.jpg" alt="Snow" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="SQLNet.jpg" alt="Forest" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://SQLNet.jpg)  |  ![](SQLNet.jpg)
 
 <table style="width:100%">
   <tr>
