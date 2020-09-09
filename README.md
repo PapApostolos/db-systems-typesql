@@ -1,5 +1,6 @@
 # db-systems-typesql-
 
+ ![Tux, the Linux mascot](/.png)
 
 Welcome to the db-systems-typesql- wiki!
 
