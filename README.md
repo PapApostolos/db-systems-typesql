@@ -4,8 +4,11 @@
 
 Welcome to the db-systems-typesql- wiki!
 
-#
-### 
+<p float="left">
+  <img src="/SQLNet.jpg" width="100" />
+  <img src="/authos-resutls.jpg" width="100" /> 
+  <img src="/SQLNet.jpg" width="100" />
+</p>
 
 
 <p align="center">
