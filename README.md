@@ -20,23 +20,20 @@ Solarized dark                   |  Solarized Ocean
 :-------------------------------:|:-------------------------:
 ![](authos-resutls.jpg)  |          ![](SQLNet.jpg)
 
-<table style="width:100%">
+#### Flutter App Screenshots
+
+<table>
   <tr>
-    <th> ![Tux, the Linux mascot](SQLNet.jpg) </th>
-    <th> ![Tux, the Linux mascot](SQLNet.jpg) </th>
-    <th> ![Tux, the Linux mascot](SQLNet.jpg) </th>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td><img src="SQLNet.jpg" width=270 height=480></td>
+    <td><img src="SQLNet.jpg" width=270 height=480></td>
+    <td><img src="SQLNet.jpg" width=270 height=480></td>
   </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table>
+ </table>
 
 * 
 *
