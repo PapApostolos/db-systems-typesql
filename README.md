@@ -1,6 +1,6 @@
 # db-systems-typesql-
 
- ![Tux, the Linux mascot](/.png)
+ ![Tux, the Linux mascot](SQLNet.jpg)
 
 Welcome to the db-systems-typesql- wiki!
 
