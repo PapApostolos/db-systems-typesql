@@ -15,7 +15,7 @@ Welcome to the db-systems-typesql- wiki!
 `jjuhui`
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://SQLNet.jpg)  |  ![](SQLNet.jpg)
+![](https://authos-resutls.jpg)  |  ![](SQLNet.jpg)
 
 <table style="width:100%">
   <tr>
