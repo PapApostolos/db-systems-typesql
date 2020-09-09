@@ -16,10 +16,10 @@ _kjn_
 
 <div class="row">
   <div class="column">
-    <img src="SQLNet.jpg" alt="Snow" style="width:100%">
+    <img src="SQLNet.jpg" alt="Snow" style="width:50%">
   </div>
   <div class="column">
-    <img src="SQLNet.jpg" alt="Forest" style="width:100%">
+    <img src="SQLNet.jpg" alt="Forest" style="width:50%">
   </div>
   <div class="column">
     <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
