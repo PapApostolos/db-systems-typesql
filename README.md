@@ -71,7 +71,7 @@ Some interesting results are displayed below.
 
 
 
-Authors Outputs             |  My Outputs
+Author's Outputs             |  My Outputs
 :-------------------------:|:-------------------------:
 ![](Images/authors-resutls.jpg)  |![](Images/MyResult.jpg) 
 
