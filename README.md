@@ -45,6 +45,7 @@ In order to run the model.
 ## Results 
 
 We run the algorithm for different number of parameters (optimizersr, unit number, content availability). <br>
+Some interesting results are displayed below.
 
 
 <br>
@@ -62,8 +63,7 @@ We run the algorithm for different number of parameters (optimizersr, unit numbe
     <tr> 
     <td>Model (Adam, 180 Cont.1 )</td> <td>  85.0% </td>  <td> 76.0%</td> <td>12.32 min </td>  
   </tr> 
-</table>
-
+</table> <br>
 
 > <B><i>Model (Adam, 180 Cont.1 ) dives Test Accuracy 73.6% </i></B>
 
@@ -76,7 +76,7 @@ Authors Outputs             |  My Outputs
 :-------------------------:|:-------------------------:
 ![](Images/authors-resutls.jpg)  |![](Images/MyResult.jpg) 
 
-
+***
 
 <B><i>Sources:</i></B>
 
