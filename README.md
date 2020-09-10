@@ -23,7 +23,7 @@ Some technical differences between this Code and the author's implementation.
     <td>Glove</td> <td>  42B.300d </td>  <td> 6B.300d</td> 
   </tr> 
 </table>
-<B><i>For the experiments <br> it was used Google Colab's GPU</i></B>
+<B><i>For the experiments it was used Google Colab's GPU</i></B>
 
 <br> <br> 
 
@@ -40,9 +40,7 @@ In order to run the model.
 * Testing: To run the default model (Epochs:7, Units:180, Opt:Adam) type `python Testing.py`  or follow the description to test your model.
 * Run competitors with **py2Competitors**
  
-
 <br>
-
 
 
 <B><i>Sources:*</i></B>
@@ -60,6 +58,8 @@ WikiSQL: https://github.com/salesforce/WikiSQL
 
 Despite the significant improvement (especially on WHERE Clauses) that typesql offers, if we look at the leaderboard of [WikiSQL](https://github.com/salesforce/WikiSQL) we will find out that TypeSql is outperformed by other models relatively easy. 
 Currently it posses the 17th position among the 25 best models for WikiSQL.
+
+<br>
 
 <table style="margin-right: auto; width:85%;font-size:15px;border:1px;">
   <tr style="font-size:115%;font-weight:bold;font-style:italic; ">
