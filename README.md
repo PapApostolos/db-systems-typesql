@@ -55,17 +55,17 @@ Some interesting results are displayed below.
     <th > </th>   <th >tr_acc</th> <th>val_acc</th>    <th>time/epoch</th> 
   </tr>
   <tr>
-    <td>Model (Adam, 120 Cont.0 )</td> <td>73.5%</td> <td>61.4% </td>  <td>07.07 min </td>  
+    <td>Model(Adam, 120, Cont.0 )</td> <td>73.5%</td> <td>61.4% </td>  <td>07.07 min </td>  
   </tr>
   <tr>
-    <td>Model (Adam, 180 Cont.0 )</td> <td> 77.4% </td> <td>64.0%</td>  <td>07.30 min </td>  
+    <td>Model(Adam, 180, Cont.0 )</td> <td> 77.4% </td> <td>64.0%</td>  <td>07.30 min </td>  
   </tr>
     <tr> 
-    <td>Model (Adam, 180 Cont.1 )</td> <td>  85.0% </td>  <td> 76.0%</td> <td>12.32 min </td>  
+    <td>Model(Adam, 180, Cont.1 )</td> <td>  85.0% </td>  <td> 76.0%</td> <td>12.32 min </td>  
   </tr> 
 </table> <br>
 
-> <B><i>Model (Adam, 180 Cont.1 ) dives Test Accuracy 73.6% </i></B>
+> <B><i>Model (Adam, 180, Cont.1 ) achieve Test Accuracy 73.6% </i></B>
 
 <br> 
 
@@ -89,6 +89,7 @@ WikiSQL: https://github.com/salesforce/WikiSQL
 ***
  
 ***
+<br>
 
 ## Current Trend  in Text-to-Sql Query
 
