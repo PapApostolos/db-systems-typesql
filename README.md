@@ -67,7 +67,7 @@ Some interesting results are displayed below.
 
 > <B><i>Model (Adam, 180 Cont.1 ) dives Test Accuracy 73.6% </i></B>
 
-<br> <br> 
+<br> 
 
 
 
