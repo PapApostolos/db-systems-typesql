@@ -38,7 +38,7 @@ In order to run the model.
      * There are offered a set of training options like: ` Optimizer=(Adam, Adadelta, SGD), UnitNumbers=(60, 120,180), Content=(0,1) etc.`
      * Customize your model according to your own needs.
 * Testing: To run the default model (Epochs:7, Units:180, Opt:Adam) type `python Testing.py`  or follow the description to test your model.
-* Run competitors with **py2Competitors**
+* Run competitors with **py2Competitors.ipynb**
  
 <br>
 
