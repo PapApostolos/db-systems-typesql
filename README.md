@@ -1,7 +1,7 @@
 # db-systems-typesql
 
 [TypeSQL](https://arxiv.org/abs/1804.09769) is a Knowledge-based Type-Aware sequence-to-sequence model that attempts to convert natural language sentences into SQL queries. <br>
-In this Repository it is analyzed the architecture, the structure and τηε performance of the model in comparison with its main competitors [SQLNet](https://arxiv.org/abs/1711.04436) and [Seq2SQL](https://arxiv.org/abs/1709.00103).
+In this Repository it is analyzed the architecture, the structure and the performance of the model in comparison with its main competitors [SQLNet](https://arxiv.org/abs/1711.04436) and [Seq2SQL](https://arxiv.org/abs/1709.00103).
 
 ***
 
