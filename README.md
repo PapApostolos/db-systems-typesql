@@ -44,9 +44,9 @@ In order to run the model.
 
 ## Results 
 
-Solarized dark             |  Solarized Ocean
+Authors Outputs             |  My Outputs
 :-------------------------:|:-------------------------:
-![Authors Outputs](Images/authors-resutls.jpg)  |  ![My Outputs](Images/MyResult.jpg) 
+![](Images/authors-resutls.jpg)  |![](Images/MyResult.jpg) 
 
 
 
