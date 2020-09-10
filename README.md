@@ -50,7 +50,6 @@ Some interesting results are displayed below.
 
 <br>
 <table style="margin-right: auto; width:85%;font-size:15px;border:1px;">
-    <caption>Monthly savings</caption>
   <tr style="font-size:115%;font-weight:bold;font-style:italic; ">
     <th > </th>   <th >tr_acc</th> <th>val_acc</th>    <th>time/epoch</th> 
   </tr>
