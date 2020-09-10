@@ -43,7 +43,8 @@ In order to run the model.
 <br>
 
 
-<B><i>Sources:*</i></B>
+<B><i>Sources:</i></B>
+
 TypeSQL: https://github.com/taoyds/typesql <br>
 SQLNet:  https://github.com/xiaojunxu/SQLNet <br>
 Seq2SQL: https://github.com/shanelleroman/seq2sql
