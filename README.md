@@ -44,6 +44,34 @@ In order to run the model.
 
 ## Results 
 
+We run the algorithm for different number of parameters (optimizersr, unit number, content availability). <br>
+
+
+<br>
+<table style="margin-right: auto; width:85%;font-size:15px;border:1px;">
+    <caption>Monthly savings</caption>
+  <tr style="font-size:115%;font-weight:bold;font-style:italic; ">
+    <th > </th>   <th >tr_acc</th> <th>val_acc</th>    <th>time/epoch</th> 
+  </tr>
+  <tr>
+    <td>Model (Adam, 120 Cont.0 )</td> <td>73.5%</td> <td>61.4% </td>  <td>07.07 min </td>  
+  </tr>
+  <tr>
+    <td>Model (Adam, 180 Cont.0 )</td> <td> 77.4% </td> <td>64.0%</td>  <td>07.30 min </td>  
+  </tr>
+    <tr> 
+    <td>Model (Adam, 180 Cont.1 )</td> <td>  85.0% </td>  <td> 76.0%</td> <td>12.32 min </td>  
+  </tr> 
+</table>
+
+
+> <B><i>Model (Adam, 180 Cont.1 ) dives Test Accuracy 73.6% </i></B>
+
+<br> <br> 
+
+
+
+
 Authors Outputs             |  My Outputs
 :-------------------------:|:-------------------------:
 ![](Images/authors-resutls.jpg)  |![](Images/MyResult.jpg) 
