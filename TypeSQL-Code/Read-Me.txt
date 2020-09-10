@@ -1,8 +1,0 @@
-Results.ipynb # Jupyter notebook with Project results.
-
-py2Competitors.ipynb # py2.7 Jupyter notebook with competitors' results.
-
-sqltype.ipynb # Jupyter notebook for running the MyTypeSQL(train) and Testing(test).
-
-Sav_Models # It contains MyDefault model (Epochs:7, Units:180, Opt:Adam) 
-           # for testing. It is used for storing the models.
