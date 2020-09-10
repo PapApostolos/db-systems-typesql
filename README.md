@@ -11,7 +11,7 @@ Some technical differences between this Code and the author's implementation.
 <br>
 <table style="margin-right: auto; width:85%;font-size:15px;border:1px;">
   <tr style="font-size:115%;font-weight:bold;font-style:italic; ">
-    <th > </th> <th >Authos</th> <th>ThisProject</th>     
+    <th > </th> <th >Author</th> <th>This Code</th>     
   </tr>
   <tr>
     <td>Epochs</td> <td>100</td> <td>7</td>  
