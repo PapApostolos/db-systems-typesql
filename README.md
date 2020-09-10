@@ -42,6 +42,13 @@ In order to run the model.
  
 <br>
 
+## Results 
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Authors Outputs](Images/authors-resutls.jpg)  |  ![My Outputs](Images/MyResult.jpg) 
+
+
 
 <B><i>Sources:</i></B>
 
