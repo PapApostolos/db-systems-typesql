@@ -93,8 +93,8 @@ WikiSQL: https://github.com/salesforce/WikiSQL
 
 ## Current Trend  in Text-to-Sql Query
 
-Despite the significant improvement (especially on WHERE Clauses) that typesql offers, if we look at the leaderboard of [WikiSQL](https://github.com/salesforce/WikiSQL) we will find out that TypeSql is outperformed by other models relatively easy. 
-Currently it posses the 17th position among the 25 best models for WikiSQL.
+Despite the significant improvement that typesql offers (especially on WHERE Clauses), we will oberve that it is outperformed by other models relatively easily. <br>
+However it stil remains one of the best 20 algorithms on [WikiSQL](https://github.com/salesforce/WikiSQL) leaderboard.
 
 <br>
 
