@@ -99,7 +99,7 @@ However it stil remains one of the best 20 algorithms on [WikiSQL](https://githu
 
 <table style="margin-right: auto; width:85%;font-size:15px;border:1px;">
   <tr style="font-size:115%;font-weight:bold;font-style:italic; ">
-    <th >Rank </th> <th >Paper</th>  <th >Dev Exec Accuracy</th>  <th >Dev Exec Accuracy</th>  
+    <th >Rank </th> <th >Paper</th>  <th >Dev Exec Acc.</th>  <th >Test Exec Acc.</th>  
   </tr>
   <tr>
  <td>1</td> 
