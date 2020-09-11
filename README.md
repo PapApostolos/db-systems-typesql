@@ -123,29 +123,13 @@ However it stil remains one of the best 20 algorithms on [WikiSQL](https://githu
 (He 2019)</td> 
   </tr>
   <tr>
- <td>4</td> 
-    <td>BRIDGE^
-+Execution-Guided Decoding
-(anonymous)  <td>  
-  </tr>
+
   <tr>
- <td>5</td> 
-    <td>(Guo 2019)+Execution-Guided Decoding with BERT-Base-Uncased  </td>  
-  </tr>
- <tr>
  <td>...</td> <td>...</td>  
 </tr>
   <tr>
     <td>16</td> 
     <td>TypeSQL (Yu 2018)  </td>  
-  </tr>
-    <tr>
-    <td>17</td> 
-    <td>PT-MAML (Huang 2018)  </td>  
-  </tr>
-   <tr>
-    <td>18</td> 
-    <td>(Guo 2018) </td>  
   </tr>
    <tr>
     <td>19</td> 
