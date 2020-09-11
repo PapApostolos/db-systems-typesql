@@ -99,14 +99,14 @@ However it stil remains one of the best 20 algorithms on [WikiSQL](https://githu
 
 <table style="margin-right: auto; width:85%;font-size:15px;border:1px;">
   <tr style="font-size:115%;font-weight:bold;font-style:italic; ">
-    <th >Rank </th> <th >Paper</th>  
+    <th >Rank </th> <th >Paper</th>  <th >Dev Exec Acc</th>  <th >Dev Exec Acc</th>  
   </tr>
   <tr>
  <td>1</td> 
     <td>IE-SQL
 +Execution-Guided Decoding
 (Ma 2020)
-(Ping An Life, AI Team)</td>  
+(Ping An Life, AI Team)</td>  <td>92.6 </td> <td> 92.5</td>
   </tr>
   <tr>
  <td>2</td> 
@@ -114,29 +114,30 @@ However it stil remains one of the best 20 algorithms on [WikiSQL](https://githu
 +Execution-Guided Decoding
 (Lyu 2020)
 (Microsoft Dynamics 365 AI)
+      </td>  <td>92.4 	 </td> <td> 92.2</td>
   </tr>
   <tr>
  <td>3</td> 
     <td>
  X-SQL
 +Execution-Guided Decoding
-(He 2019)</td> 
+(He 2019)</td>  <td>92.3	  </td> <td> 	91.8</td>
   </tr>
   <tr>
 
   <tr>
- <td>...</td> <td>...</td>  
+ <td>...</td> <td>...</td>   <td>...</td> <td>...</td>
 </tr>
   <tr>
     <td>16</td> 
-    <td>TypeSQL (Yu 2018)  </td>  
+    <td>TypeSQL (Yu 2018)  </td>   <td> 74.5</td> <td> 73.5</td>
   </tr>
    <tr>
     <td>19</td> 
-    <td>SQLNet (Xu 2017)  </td>  
+    <td>SQLNet (Xu 2017)  </td>   <td> 69.8</td> <td>68.0 </td>
   </tr>
       <td>21</td> 
-    <td>Seq2SQL (Zhong 2017)  </td>  
+    <td>Seq2SQL (Zhong 2017)  </td>  <td> 60.8 </td> <td>59.4 </td>
   </tr
 </table>
 
